@@ -1,0 +1,127 @@
+[
+	{
+		"id" : "arts",
+		"beforeImage" : "icon ion-waterdrop",
+		"topicName" : "Arts",
+		"topicState": "badge badge-assertive topic-details-icons",
+		"topicAmt" : 2
+
+	},
+	
+	{
+		"id" : "arts",
+		"beforeImage" : "icon ion-waterdrop",
+		"topicName" : "Arts",
+		"topicState": "badge badge-assertive topic-details-icons",
+		"topicAmt" : 2
+
+	},
+
+	{
+		"id" : "business",
+		"beforeImage" : "icon ion-briefcase",
+		"topicName" : "Business",
+		"topicState": "badge badge-assertive topic-details-icons",
+		"topicAmt" : 4
+
+	},
+	
+	{
+		"id" : "education",
+		"beforeImage" : "icon ion-compose",
+		"topicName" : "Education",
+		"topicState": "badge badge-assertive topic-details-icons",
+		"topicAmt" : 3
+
+	},
+
+	{
+		"id" : "games",
+		"beforeImage" : "icon ion-game-controller-b",
+		"topicName" : "Games",
+		"topicState": "badge badge-calm topic-details-icons",
+		"topicAmt" : 5
+	},
+
+	{
+		"id" : "geography",
+		"beforeImage" : "icon ion-earth",
+		"topicName" : "Geography",
+		"topicState": "badge badge-balanced topic-details-icons",
+		"topicAmt" : 10
+	},
+
+	{
+		"id" : "history",
+		"beforeImage" : "icon ion-calendar",
+		"topicName" : "History",
+		"topicState": "badge badge-assertive topic-details-icons",
+		"topicAmt" : 5
+
+	},
+
+	{
+		"id" : "lifestyle",
+		"beforeImage" : "icon ion-wineglass",
+		"topicName" : "Lifestyle",
+		"topicState": "badge badge-calm topic-details-icons",
+		"topicAmt" : 7
+
+	},
+
+	{
+		"id" : "movies",
+		"beforeImage" : "icon ion-film-marker",
+		"topicName" : "Movies",
+		"topicState": "badge badge-calm topic-details-icons",
+		"topicAmt" : 9
+
+	},
+
+	{
+		"id" : "music",
+		"beforeImage" : "icon ion-music-note",
+		"topicName" : "Music",
+		"topicState": "badge badge-calm topic-details-icons",
+		"topicAmt" : 7
+
+	},
+
+	{
+		"id" : "nature",
+		"beforeImage" : "icon ion-leaf",
+		"topicName" : "Nature",
+		"topicState": "badge badge-assertive topic-details-icons",
+		"topicAmt" : 4
+
+	},
+
+	{
+		"id" : "science",
+		"beforeImage" : "icon ion-beaker",
+		"topicName" : "Science",
+		"topicState": "badge badge-balanced topic-details-icons",
+		"topicAmt" : 11,
+		"afterImage" : "icon ion-log-in"
+
+	},
+
+	{
+		"id" : "sports",
+		"beforeImage" : "icon ion-social-dribbble",
+		"topicName" : "Sports",
+		"topicState": "badge badge-calm topic-details-icons",
+		"topicAmt" : 7
+
+	},
+
+	{
+		"id" : "television",
+		"beforeImage" : "icon ion-laptop",
+		"topicName" : "Television",
+		"topicState": "badge badge-balanced topic-details-icons",
+		"topicAmt" : 15
+
+	}
+
+]
