@@ -1,0 +1,120 @@
+[ 
+	{
+		"que" : "For which film did Callie Khouri win an Oscar in 1991 for screenplay ?" , 
+		"opt1" : "Thelma and Louise",
+		"opt2" : "Bridgett's Play", 
+		"opt3" : "The Godfather",
+		"opt4" : "War Heroes", 
+		"ans" : "Thelma and Louise"
+	},
+
+	{
+		"img" : "img/test.png",
+		"que" : "Who played the role of 'Michael Corelone' in the movie 'The Godfather'" ,
+		"opt1" : "Will Smith",
+		"opt2" : "Tom Haegans",
+		"opt3" : "Al Pacino",
+		"opt4" : "Williams", 
+		"ans" : "Al Pacino"
+	},
+	
+	{
+	 	"que" : "The lead character in the movie 'The pursuit of happyness' is ?" ,
+	 	"opt1" : "Will Smith",
+	    "opt2" : "Brad Pitt",
+	    "opt3" : "Tom Hanks",
+	    "opt4" : "Marlon Brando", "ans" : "Will Smith"
+	},
+	
+	{
+	 	"que" : "For which movie did Kathryn Bigelow get the Academy Award, thus becoming the first woman to get the Oscar for Best Director ?" , 
+	 	"opt1" : "The sea of change",
+	    "opt2" : "The Grudge", 
+	    "opt3" : "The Hurt Locker",
+	    "opt4" : "Blood Diamond", 
+	    "ans" : "The Hurt Locker"
+	},
+	
+	{
+	 	"que" : "Name the 1959 historical drama set in ancient Rome that won 11 Oscars." , 
+	 	"opt1" : "Troy",
+	    "opt2" : "Ben-Hur", 
+	    "opt3" : "Rome",
+	    "opt4" : "The great Gatsby", 
+	    "ans" : "Ben-Hur"
+	},
+	
+	{
+	 	"que" : "Who directed 'The Dark Knight' (2008) ?" , 
+	 	"opt1" : "Jayden Smith",
+	    "opt2" : "Steven Spielberg",
+	    "opt3" : "Richard Stevens",
+	    "opt4" : "Christopher Nolan",
+	    "ans" : "Christopher Nolan"
+	},
+
+	{
+	 	"que" : "Which Roland Emmerich movie portrays fictional cataclysmic events that were to take place in early 21st century ?" , 
+	 	"opt1" : "2012",
+	    "opt2" : "2013",
+	    "opt3" : "1992",
+	    "opt4" : "1993",
+	    "ans" : "2012"
+	}, 
+
+	{
+	 	"que" : "What is the name of the young lion whose story is told in the musical 'The Lion King' ?" , 
+	 	"opt1" : "Alex",
+	    "opt2" : "Simba",
+	    "opt3" : "Marty",
+	    "opt4" : "Dane",
+	    "ans" : "Simba"
+	},
+
+	{
+	 	"que" : "Who gave the music for the Oscar winning movie 'The Slumdog Millionaire' ?" , 
+	 	"opt1" : "Jonny Django",
+	    "opt2" : "Manikathan",
+	    "opt3" : "A. R. Rahman",
+	    "opt4" : "Bethoven",
+	    "ans" : "A. R. Rahman"
+	},
+
+	{
+	 	"que" : "The 36th chamber of secrets is a film based on which martial arts form ?" , 
+	 	"opt1" : "Taekwondo",
+	    "opt2" : "Kung-Fu",
+	    "opt3" : "Moi-Thai",
+	    "opt4" : "Tai-Chi",
+	    "ans" : "Kung-Fu"
+	},
+
+	{
+	 	"que" : "'I will make you an offer that you cant refuse' is a quote from which movie ?" , 
+	 	"opt1" : "The Godfather",
+	    "opt2" : "Scar Face",
+	    "opt3" : "Scent Of A Woman",
+	    "opt4" : "wild Wild West",
+	    "ans" : "The Godfather"
+	},
+
+	{
+	 	"que" : "'The Wolf of Wall Street' is a movie starring ?" , 
+	 	"opt1" : "Justin Bieber",
+	    "opt2" : "Brad Pitt",
+	    "opt3" : "George Clooney",
+	    "opt4" : "Leonardo Di Caprio",
+	    "ans" : "Leonardo Di Caprio"
+	},
+
+	{
+	 	"que" : "" , 
+	 	"opt1" : "",
+	    "opt2" : "",
+	    "opt3" : "",
+	    "opt4" : "",
+	    "ans" : ""
+	}
+
+
+]

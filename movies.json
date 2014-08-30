@@ -1,0 +1,81 @@
+[
+	
+	{
+		"id" : "movie-hollywood",
+		"thumb" : "img/thumbs/movies/hollywood.webp",
+		"name" : "Hollywood",
+		"desc" : "From LosAngeles to everywere"
+	},
+
+	{
+		"id" : "movie-hollywood",
+		"thumb" : "img/thumbs/movies/hollywood.webp",
+		"name" : "Hollywood",
+		"desc" : "From LosAngeles to everywere"
+	},
+
+	{
+		"id" : "movie-bollywood",
+		"thumb" : "img/thumbs/movies/bollywood.webp",
+		"name" : "Bollywood",
+		"desc" : "Time for Music, Drama and Action"
+	},
+
+	{
+		"id" : "movie-quotes",
+		"thumb" : "img/thumbs/movies/quotes.webp",
+		"name" : "Quotes",
+		"desc" : "Did he say that!"
+	},
+
+	{
+		"id" : "movie-bollywood-classic",
+		"thumb" : "img/thumbs/movies/eightys.webp",
+		"name" : "Bollywood Classic",
+		"desc" : "70's, 80's and 90's Bollywood"
+	},
+
+	{
+		"id" : "movie-spiderman",
+		"thumb" : "img/thumbs/movies/spider.webp",
+		"name" : "SpiderMan Triology",
+		"desc" : "Untagle this web of question's"
+	},
+
+	{
+		"id" : "movie-harry-potter",
+		"thumb" : "img/thumbs/movies/harry-potter.webp",
+		"name" : "Harry Potter Series",
+		"desc" : "What potion can you use now?"
+	},
+
+	{
+		"id" : "movie-animation",
+		"thumb" : "img/thumbs/movies/animation.webp",
+		"name" : "Animation Movies",
+		"desc" : "Let out the child inside you!"
+	},
+
+	{
+		"id" : "movie-mafia",
+		"thumb" : "img/thumbs/movies/mafia.webp",
+		"name" : "Mafia Movies",
+		"desc" : "I will make you an offer that you can't refuse"
+	},
+
+	{
+		"id" : "movie-sci-fi",
+		"thumb" : "img/thumbs/movies/sci-fi.webp",
+		"name" : "Science Fiction",
+		"desc" : "Nerd Bomb"
+	},
+
+	{
+		"id" : "movie-hollywood-classic",
+		"thumb" : "img/thumbs/movies/eightys.webp",
+		"name" : "Hollywood Classic",
+		"desc" : "70's, 80's and 90's Bollywood"
+	}
+
+
+]

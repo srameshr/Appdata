@@ -1,0 +1,46 @@
+[
+	{
+		"que":"Surprise! Surprise! Happy birthday, Daddy!",
+		"opt1":"Home Alone",
+		"opt2":"Bananas",
+		"opt3":"Gringo",
+		"opt4":"Lethal Weapon",
+		"ans":"Lethal Weapon"
+	},
+
+	{
+		"que":"I bet she gives great helmet!",
+		"opt1":"Twins",
+		"opt2":"The Longest Yard",
+		"opt3":"Spaceballs",
+		"opt4":"Grin",
+		"ans":"Spaceballs"
+	},
+
+	{
+		"que":"You go out, wave your cap and give the people a thrill.",
+		"opt1":"Forrest Gump",
+		"opt2":"A League of Their Own",
+		"opt3":"Justins Break",
+		"opt4":"Acapella",
+		"ans":"A League of Their Own"
+	},
+
+	{
+		"que":"Do they teach beauty queens how to apologize?",
+		"opt1":"Erin Brockovich",
+		"opt2":"Forrest Gump",
+		"opt3":"The Hunter",
+		"opt4":"Departed",
+		"ans":"Erin Brockovich"
+	},
+
+	{
+		"que":"And if I reach number one, I promise to sing this song,stark naked, on TV on Christmas Eve",
+		"opt1":"A Christmas Story",
+		"opt2":"The Santa Clause",
+		"opt3":"Love Actually",
+		"opt4":"P.S I Love You",
+		"ans":"Love Actually"
+	}
+]
