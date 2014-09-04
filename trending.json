@@ -7,10 +7,10 @@
 	},
 
 	{
-		"id" : "sports-cricket",
-		"thumb" : "img/thumbs/sports/cricket.webp",
-		"name" : "Cricket",
-		"desc" : "The gentlemans game"
+		"id" : "television-who-is-that-pokemon",
+		"thumb" : "img/thumbs/television/pokemon.webp",
+		"name" : "Who is that Pokemon",
+		"desc" : "Name these pokemons"
 	}
 
 ]

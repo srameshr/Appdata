@@ -3,21 +3,21 @@
 		"id" : "sports-american-football",
 		"thumb" : "img/thumbs/sports/american-football.webp",
 		"name" : "American Football",
-		"desc" : "Forward Pass"
+		"desc" : "Ten Hut!"
 	},
 	
 	{
 		"id" : "sports-american-football",
 		"thumb" : "img/thumbs/sports/american-football.webp",
 		"name" : "American Football",
-		"desc" : "Forward Pass"
+		"desc" : "Ten Hut!"
 	},
 
 	{
 		"id" : "sports-baseball",
 		"thumb" : "img/thumbs/sports/baseball.webp",
 		"name" : "Baseball",
-		"desc" : "Home Run"
+		"desc" : "Score a home run here"
 	},
 
 	{
@@ -45,14 +45,21 @@
 		"id" : "sports-golf",
 		"thumb" : "img/thumbs/sports/golf.webp",
 		"name" : "Golf",
-		"desc" : "Golf"
+		"desc" : ""
 	},
 
 	{
 		"id" : "sports-tennis",
 		"thumb" : "img/thumbs/sports/tennis.webp",
 		"name" : "Tennis",
-		"desc" : "Tennis"
+		"desc" : "Smash that, serve this and volley that"
+	},
+	
+	{
+		"id" : "sports-new-york-yankees",
+		"thumb" : "img/thumbs/sports/tennis.webp",
+		"name" : "New-York Yankees",
+		"desc" : "Yankees"
 	}
 ]
 

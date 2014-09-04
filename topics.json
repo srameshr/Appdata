@@ -1,4 +1,4 @@
-parseResults([
+[
 	{
 		"id" : "arts",
 		"beforeImage" : "icon ion-waterdrop",
@@ -31,7 +31,7 @@ parseResults([
 		"beforeImage" : "icon ion-compose",
 		"topicName" : "Education",
 		"topicState": "badge badge-assertive topic-details-icons",
-		"topicAmt" : 3
+		"topicAmt" : 2
 
 	},
 
@@ -40,7 +40,7 @@ parseResults([
 		"beforeImage" : "icon ion-game-controller-b",
 		"topicName" : "Games",
 		"topicState": "badge badge-calm topic-details-icons",
-		"topicAmt" : 5
+		"topicAmt" : 2
 	},
 
 	{
@@ -48,7 +48,7 @@ parseResults([
 		"beforeImage" : "icon ion-earth",
 		"topicName" : "Geography",
 		"topicState": "badge badge-balanced topic-details-icons",
-		"topicAmt" : 10
+		"topicAmt" : 4
 	},
 
 	{
@@ -65,7 +65,7 @@ parseResults([
 		"beforeImage" : "icon ion-wineglass",
 		"topicName" : "Lifestyle",
 		"topicState": "badge badge-calm topic-details-icons",
-		"topicAmt" : 7
+		"topicAmt" : 3
 
 	},
 
@@ -92,7 +92,7 @@ parseResults([
 		"beforeImage" : "icon ion-leaf",
 		"topicName" : "Nature",
 		"topicState": "badge badge-assertive topic-details-icons",
-		"topicAmt" : 4
+		"topicAmt" : 1
 
 	},
 
@@ -101,8 +101,7 @@ parseResults([
 		"beforeImage" : "icon ion-beaker",
 		"topicName" : "Science",
 		"topicState": "badge badge-balanced topic-details-icons",
-		"topicAmt" : 11,
-		"afterImage" : "icon ion-log-in"
+		"topicAmt" : 5
 
 	},
 
@@ -112,6 +111,15 @@ parseResults([
 		"topicName" : "Sports",
 		"topicState": "badge badge-calm topic-details-icons",
 		"topicAmt" : 7
+
+	},
+	
+	{
+		"id" : "technology",
+		"beforeImage" : "icon ion-laptop",
+		"topicName" : "Technology",
+		"topicState": "badge badge-balanced topic-details-icons",
+		"topicAmt" : 3
 
 	},
 
@@ -124,4 +132,4 @@ parseResults([
 
 	}
 
-])
+]

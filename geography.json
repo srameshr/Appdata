@@ -1,0 +1,31 @@
+[
+	{
+		"id" : "geography-usa",
+		"thumb" : "img/thumbs/sports/american-football.webp",
+		"name" : "USA",
+		"desc" : "The land of dreams"
+	},
+	
+	{
+		"id" : "geography-usa",
+		"thumb" : "img/thumbs/sports/american-football.webp",
+		"name" : "USA",
+		"desc" : "The land of dreams"
+	},
+	
+	{
+		"id" : "geography-asia",
+		"thumb" : "img/thumbs/sports/american-football.webp",
+		"name" : "Asia",
+		"desc" : "Mostly Tropical"
+	},
+	
+	{
+		"id" : "geography-australia",
+		"thumb" : "img/thumbs/sports/american-football.webp",
+		"name" : "Australia",
+		"desc" : "The Australian Outback"
+	}
+]
+
+

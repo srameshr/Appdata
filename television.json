@@ -11,5 +11,71 @@
 		"thumb" : "img/thumbs/television/pokemon.webp",
 		"name" : "Who is that Pokemon",
 		"desc" : "Name these pokemons"
+	},
+	
+	{
+		"id" : "television-cartoon",
+		"thumb" : "img/thumbs/television/pokemon.webp",
+		"name" : "Cartoon",
+		"desc" : "Toon Toon Cartoon"
+	},
+	
+	{
+		"id" : "television-xfiles",
+		"thumb" : "img/thumbs/television/pokemon.webp",
+		"name" : "X-Files",
+		"desc" : "Open these files"
+	},
+	
+	{
+		"id" : "television-walking-dead",
+		"thumb" : "img/thumbs/television/pokemon.webp",
+		"name" : "Walking Dead",
+		"desc" : "Raise the dead"
+	},
+	
+	{
+		"id" : "television-two-and-a-half-men",
+		"thumb" : "img/thumbs/television/pokemon.webp",
+		"name" : "Two and a half men",
+		"desc" : "Menly Men"
+	},
+	
+	{
+		"id" : "television-star-trek",
+		"thumb" : "img/thumbs/television/pokemon.webp",
+		"name" : "Star Trek",
+		"desc" : "Bah Klin Vah"
+	},
+	
+	{
+		"id" : "television-how-i-met",
+		"thumb" : "img/thumbs/television/pokemon.webp",
+		"name" : "How I Met Your Mother",
+		"desc" : "The fab 5"
+	},
+	
+	{
+		"id" : "television-greys-anatomy",
+		"thumb" : "img/thumbs/television/pokemon.webp",
+		"name" : "Greys Anatomy",
+		"desc" : "Doctor Diaries"
+	},
+	
+	{
+		"id" : "television-game-of-thrones",
+		"thumb" : "img/thumbs/television/pokemon.webp",
+		"name" : "Game of Thrones",
+		"desc" : "Back to medieval fantasy"
+	},
+	
+	{
+		"id" : "television-glee",
+		"thumb" : "img/thumbs/television/pokemon.webp",
+		"name" : "Glee",
+		"desc" : "Up for some musical comedy?"
 	}
+
+
+	
 ]
