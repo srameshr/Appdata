@@ -1,135 +1,189 @@
 [
-	{
-		"id" : "arts",
-		"beforeImage" : "icon ion-waterdrop",
-		"topicName" : "Arts",
-		"topicState": "badge badge-assertive topic-details-icons",
-		"topicAmt" : 2
+	[
+	    {
+					"id" : "arts",
+					"beforeImage" : "icon ion-waterdrop",
+					"topicName" : "Arts",
+					"topicState": "badge badge-assertive topic-details-icons",
+					"topicAmt" : 2
 
-	},
-	
-	{
-		"id" : "arts",
-		"beforeImage" : "icon ion-waterdrop",
-		"topicName" : "Arts",
-		"topicState": "badge badge-assertive topic-details-icons",
-		"topicAmt" : 2
+				},
+				
+				{
+					"id" : "arts",
+					"beforeImage" : "icon ion-waterdrop",
+					"topicName" : "Arts",
+					"topicState": "badge badge-assertive topic-details-icons",
+					"topicAmt" : 2
 
-	},
+				},
 
-	{
-		"id" : "business",
-		"beforeImage" : "icon ion-briefcase",
-		"topicName" : "Business",
-		"topicState": "badge badge-assertive topic-details-icons",
-		"topicAmt" : 4
+				{
+					"id" : "business",
+					"beforeImage" : "icon ion-briefcase",
+					"topicName" : "Business",
+					"topicState": "badge badge-assertive topic-details-icons",
+					"topicAmt" : 4
 
-	},
-	
-	{
-		"id" : "education",
-		"beforeImage" : "icon ion-compose",
-		"topicName" : "Education",
-		"topicState": "badge badge-assertive topic-details-icons",
-		"topicAmt" : 2
+				},
+				
+				{
+					"id" : "Education",
+					"beforeImage" : "icon ion-university",
+					"topicName" : "Education",
+					"topicState": "badge badge-assertive topic-details-icons",
+					"topicAmt" : 2
 
-	},
+				},
 
-	{
-		"id" : "games",
-		"beforeImage" : "icon ion-game-controller-b",
-		"topicName" : "Games",
-		"topicState": "badge badge-calm topic-details-icons",
-		"topicAmt" : 2
-	},
+				{
+					"id" : "games",
+					"beforeImage" : "icon ion-game-controller-b",
+					"topicName" : "Games",
+					"topicState": "badge badge-calm topic-details-icons",
+					"topicAmt" : 2
+				},
 
-	{
-		"id" : "geography",
-		"beforeImage" : "icon ion-earth",
-		"topicName" : "Geography",
-		"topicState": "badge badge-balanced topic-details-icons",
-		"topicAmt" : 4
-	},
+				{
+					"id" : "geography",
+					"beforeImage" : "icon ion-earth",
+					"topicName" : "Geography",
+					"topicState": "badge badge-balanced topic-details-icons",
+					"topicAmt" : 4
+				},
 
-	{
-		"id" : "history",
-		"beforeImage" : "icon ion-calendar",
-		"topicName" : "History",
-		"topicState": "badge badge-assertive topic-details-icons",
-		"topicAmt" : 5
+				{
+					"id" : "history",
+					"beforeImage" : "icon ion-calendar",
+					"topicName" : "History",
+					"topicState": "badge badge-assertive topic-details-icons",
+					"topicAmt" : 5
 
-	},
+				},
+				
+				{
+					"id" : "literature",
+					"beforeImage" : "icon ion-compose",
+					"topicName" : "Literature",
+					"topicState": "badge badge-assertive topic-details-icons",
+					"topicAmt" : 5
 
-	{
-		"id" : "lifestyle",
-		"beforeImage" : "icon ion-wineglass",
-		"topicName" : "Lifestyle",
-		"topicState": "badge badge-calm topic-details-icons",
-		"topicAmt" : 3
+				},
 
-	},
+				{
+					"id" : "lifestyle",
+					"beforeImage" : "icon ion-wineglass",
+					"topicName" : "Lifestyle",
+					"topicState": "badge badge-calm topic-details-icons",
+					"topicAmt" : 3
 
-	{
-		"id" : "movies",
-		"beforeImage" : "icon ion-film-marker",
-		"topicName" : "Movies",
-		"topicState": "badge badge-calm topic-details-icons",
-		"topicAmt" : 9
+				},
 
-	},
+				{
+					"id" : "movies",
+					"beforeImage" : "icon ion-film-marker",
+					"topicName" : "Movies",
+					"topicState": "badge badge-calm topic-details-icons",
+					"topicAmt" : 9
 
-	{
-		"id" : "music",
-		"beforeImage" : "icon ion-music-note",
-		"topicName" : "Music",
-		"topicState": "badge badge-calm topic-details-icons",
-		"topicAmt" : 7
+				},
 
-	},
+				{
+					"id" : "music",
+					"beforeImage" : "icon ion-music-note",
+					"topicName" : "Music",
+					"topicState": "badge badge-calm topic-details-icons",
+					"topicAmt" : 7
 
-	{
-		"id" : "nature",
-		"beforeImage" : "icon ion-leaf",
-		"topicName" : "Nature",
-		"topicState": "badge badge-assertive topic-details-icons",
-		"topicAmt" : 1
+				},
 
-	},
+				{
+					"id" : "nature",
+					"beforeImage" : "icon ion-leaf",
+					"topicName" : "Nature",
+					"topicState": "badge badge-assertive topic-details-icons",
+					"topicAmt" : 1
 
-	{
-		"id" : "science",
-		"beforeImage" : "icon ion-beaker",
-		"topicName" : "Science",
-		"topicState": "badge badge-balanced topic-details-icons",
-		"topicAmt" : 5
+				},
+				
+				{
+					"id" : "people",
+					"beforeImage" : "icon ion-ios7-people",
+					"topicName" : "People",
+					"topicState": "badge badge-assertive topic-details-icons",
+					"topicAmt" : 1
 
-	},
+				},
 
-	{
-		"id" : "sports",
-		"beforeImage" : "icon ion-social-dribbble",
-		"topicName" : "Sports",
-		"topicState": "badge badge-calm topic-details-icons",
-		"topicAmt" : 7
+				{
+					"id" : "science",
+					"beforeImage" : "icon ion-beaker",
+					"topicName" : "Science",
+					"topicState": "badge badge-balanced topic-details-icons",
+					"topicAmt" : 5
 
-	},
-	
-	{
-		"id" : "technology",
-		"beforeImage" : "icon ion-laptop",
-		"topicName" : "Technology",
-		"topicState": "badge badge-balanced topic-details-icons",
-		"topicAmt" : 3
+				},
 
-	},
+				{
+					"id" : "sports",
+					"beforeImage" : "icon ion-social-dribbble",
+					"topicName" : "Sports",
+					"topicState": "badge badge-calm topic-details-icons",
+					"topicAmt" : 7
 
-	{
-		"id" : "television",
-		"beforeImage" : "icon ion-laptop",
-		"topicName" : "Television",
-		"topicState": "badge badge-balanced topic-details-icons",
-		"topicAmt" : 15
+				},
+				
+				{
+					"id" : "technology",
+					"beforeImage" : "icon ion-laptop",
+					"topicName" : "Technology",
+					"topicState": "badge badge-balanced topic-details-icons",
+					"topicAmt" : 3
 
-	}
+				},
+
+				{
+					"id" : "television",
+					"beforeImage" : "icon ion-laptop",
+					"topicName" : "Television",
+					"topicState": "badge badge-balanced topic-details-icons",
+					"topicAmt" : 15
+
+				}
+	],
+
+	[
+		{
+			"id" : "sports-american-football",
+			"thumb" : "img/thumbs/sports/american-football.webp",
+			"name" : "American Football",
+			"desc" : "Forward Pass"
+		},
+
+		{
+			"id" : "movie-animation",
+			"thumb" : "img/thumbs/movies/animation.webp",
+			"name" : "Animation",
+			"desc" : "Let out the child inside you"
+		}
+	],
+
+	[
+		{
+			"id" : "sports-cricket",
+			"thumb" : "img/thumbs/sports/cricket.webp",
+			"name" : "Cricket",
+			"desc" : "The gentlemans game"
+		}
+	],
+
+	[
+		{
+			"id" : "movie-mafia",
+			"thumb" : "img/thumbs/movies/mafia.webp",
+			"name" : "Mafia Movies",
+			"desc" : "I will make you an offer that you can't refuse"
+		}
+	]
 
 ]

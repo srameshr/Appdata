@@ -1,10 +1,4 @@
 [
-	{
-		"id" : "sports-american-football",
-		"thumb" : "img/thumbs/sports/american-football.webp",
-		"name" : "American Football",
-		"desc" : "Ten Hut!"
-	},
 	
 	{
 		"id" : "sports-american-football",
@@ -57,7 +51,7 @@
 	
 	{
 		"id" : "sports-new-york-yankees",
-		"thumb" : "img/thumbs/sports/tennis.webp",
+		"thumb" : "img/thumbs/sports/yankees.webp",
 		"name" : "New-York Yankees",
 		"desc" : "Yankees"
 	}

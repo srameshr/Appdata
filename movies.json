@@ -1,11 +1,6 @@
 [
 	
-	{
-		"id" : "movie-hollywood",
-		"thumb" : "img/thumbs/movies/hollywood.webp",
-		"name" : "Hollywood",
-		"desc" : "From LosAngeles to everywere"
-	},
+
 
 	{
 		"id" : "movie-hollywood",
