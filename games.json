@@ -1,1 +1,8 @@
-[{"id":"games-clash-clans","thumb":"img/thumbs/games/clash-clans.png","name":"Clash Of Clans","desc":"Barbarians!!!!!!"}]
+[
+	{
+		"id" : "games-clash-clans",
+		"thumb" : "img/thumbs/games/clash-clans.png",
+		"name" : "Clash Of Clans",
+		"desc" : "Barbarians!!!!!!"
+	}
+]

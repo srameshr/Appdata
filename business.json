@@ -1,1 +1,29 @@
-[{"id":"business-tech","thumb":"img/thumbs/business/tech.png","name":"Tech Business","desc":"From Silicon Valley to ..."},{"id":"business-business","thumb":"img/thumbs/business/business.png","name":"Business","desc":"The art of making money"},{"id":"business-ads","thumb":"img/thumbs/business/ads.png","name":"Ads","desc":"How well do you know about reach?"},{"id":"business-logos","thumb":"img/thumbs/business/logos.png","name":"Logo","desc":"The symbol of a company"}]
+[
+	{
+		"id" : "business-tech",
+		"thumb" : "img/thumbs/business/tech.png",
+		"name" : "Tech Business",
+		"desc" : "From Silicon Valley to ..."
+	},
+	
+	{
+		"id" : "business-business",
+		"thumb" : "img/thumbs/business/business.png",
+		"name" : "Business",
+		"desc" : "The art of making money"
+	},
+
+	{
+		"id" : "business-ads",
+		"thumb" : "img/thumbs/business/ads.png",
+		"name" : "Ads",
+		"desc" : "How well do you know about reach?"
+	},
+
+	{
+		"id" : "business-logos",
+		"thumb" : "img/thumbs/business/logos.png",
+		"name" : "Logo",
+		"desc" : "The symbol of a company"
+	}
+]

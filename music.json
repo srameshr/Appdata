@@ -1,1 +1,56 @@
-[{"id":"music-pink-floyd","thumb":"img/thumbs/music/pink-floyd.png","name":"Pink Floyd","desc":"Echoes"},{"id":"music-taylor-swift","thumb":"img/thumbs/music/taylor-swift.png","name":"Taylor Swift","desc":"The country super star"},{"id":"music-lady-gaga","thumb":"img/thumbs/music/lady-gaga.png","name":"Lady Gaga","desc":"Poker Face"},{"id":"music-justin-bieber","thumb":"img/thumbs/music/justin-bieber.png","name":"Justin Bieber","desc":"Oh! Baby Oh!"},{"id":"music-classic-rock","thumb":"img/thumbs/music/classic-rock.png","name":"Classic Rock","desc":"Get your ear plugs and start buzzing"},{"id":"music-britney-spears","thumb":"img/thumbs/music/britney-spears.png","name":"Britney Spears","desc":". . . Baby one more time"},{"id":"music-bollywood","thumb":"img/thumbs/music/bollywood.png","name":"Bollywood","desc":"Melody and Bang"},{"id":"music-bob-dylan","thumb":"img/thumbs/music/bob-dylan.png","name":"Bob Dylan","desc":"Hey! Mr. Tambourine man"},{"id":"music-beatles","thumb":"img/thumbs/music/beatles.png","name":"The Beatles","desc":"The greatest of all time"}]
+[
+	{
+		"id" : "music-pink-floyd",
+		"thumb" : "img/thumbs/music/pink-floyd.png",
+		"name" : "Pink Floyd",
+		"desc" : "Echoes"
+	},
+	{
+		"id" : "music-taylor-swift",
+		"thumb" : "img/thumbs/music/taylor-swift.png",
+		"name" : "Taylor Swift",
+		"desc" : "The country super star"
+	},
+	{
+		"id" : "music-lady-gaga",
+		"thumb" : "img/thumbs/music/lady-gaga.png",
+		"name" : "Lady Gaga",
+		"desc" : "Poker Face"
+	},
+	{
+		"id" : "music-justin-bieber",
+		"thumb" : "img/thumbs/music/justin-bieber.png",
+		"name" : "Justin Bieber",
+		"desc" : "Oh! Baby Oh!"
+	},
+	{
+		"id" : "music-classic-rock",
+		"thumb" : "img/thumbs/music/classic-rock.png",
+		"name" : "Classic Rock",
+		"desc" : "Get your ear plugs and start buzzing"
+	},
+	{
+		"id" : "music-britney-spears",
+		"thumb" : "img/thumbs/music/britney-spears.png",
+		"name" : "Britney Spears",
+		"desc" : ". . . Baby one more time"
+	},
+	{
+		"id" : "music-bollywood",
+		"thumb" : "img/thumbs/music/bollywood.png",
+		"name" : "Bollywood",
+		"desc" : "Melody and Bang"
+	},
+	{
+		"id" : "music-bob-dylan",
+		"thumb" : "img/thumbs/music/bob-dylan.png",
+		"name" : "Bob Dylan",
+		"desc" : "Hey! Mr. Tambourine man"
+	},
+	{
+		"id" : "music-beatles",
+		"thumb" : "img/thumbs/music/beatles.png",
+		"name" : "The Beatles",
+		"desc" : "The greatest of all time"
+	}
+]

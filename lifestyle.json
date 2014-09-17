@@ -1,1 +1,8 @@
-[{"id":"lifestyle-beer","thumb":"img/thumbs/lifestyle/beer.png","name":"Beer","desc":"Know your brew?"}]
+[
+	{
+		"id" : "lifestyle-beer",
+		"thumb" : "img/thumbs/lifestyle/beer.png",
+		"name" : "Beer",
+		"desc" : "Know your brew?"
+	}
+]
