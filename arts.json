@@ -1,15 +1,1 @@
-[
-	{
-		"id" : "arts-ren",
-		"thumb" : "img/thumbs/arts/ren.png",
-		"name" : "Renaissance Art",
-		"desc" : "Back to beautiful"
-	},
-	
-	{
-		"id" : "arts-general",
-		"thumb" : "img/thumbs/arts/arts.png",
-		"name" : "Arts General",
-		"desc" : "Arts and Life"
-	}
-]
+[{"id":"arts-ren","thumb":"img/thumbs/arts/ren.png","name":"Renaissance Art","desc":"Back to beautiful"},{"id":"arts-general","thumb":"img/thumbs/arts/arts.png","name":"Arts General","desc":"Arts and Life"}]

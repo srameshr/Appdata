@@ -1,11 +1,1 @@
-[
-	
-	{
-		"id" : "people-sachin",
-		"thumb" : "img/thumbs/people/sachin.png",
-		"name" : "Sachin Tendulkar",
-		"desc" : "Wait! Shouldn't he be in the god section"
-	}
-]
-
-
+[{"id":"people-sachin","thumb":"img/thumbs/people/sachin.png","name":"Sachin Tendulkar","desc":"Wait! Shouldn't he be in the god section"}]
